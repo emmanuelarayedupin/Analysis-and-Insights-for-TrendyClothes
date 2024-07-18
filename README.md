@@ -43,10 +43,17 @@ The dataset includes the following columns:
 - The Formal category has a higher average revenue compared to the Casual category.
 
 ## Recommendations
+1. **Focus on Casual Products**:
+   - Casual products generate the highest revenue. Enhance the variety and marketing of casual products, especially during the summer season, to further boost sales and revenue.
 
-1. **Focus on Formal Products**: Since the Formal category generates higher revenue, increasing the range of Formal products may boost overall revenue.
-2. **Seasonal Strategies**: Targeting the Summer season with promotions and discounts could increase sales further.
-3. **Price Optimization**: Considering the negative correlation between price and sales, implementing a dynamic pricing strategy based on demand and competition could optimize sales and revenue.
+2. **Seasonal Promotions**:
+   - Since summer has the highest sales, consider implementing seasonal promotions to capitalize on the peak sales period.
+
+3. **Price Adjustments**:
+   - Given the strong negative correlation between price and sales, consider strategic price reductions for higher-priced items to boost sales. For example, lowering the price of sneakers and jackets could potentially increase their sales volume.
+
+4. **Product-Specific Strategies**:
+   - Products with high revenue per unit, such as sneakers, should be highlighted in marketing campaigns to attract more customers willing to pay a premium price.
 
 ## Conclusion
 
