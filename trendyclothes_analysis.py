@@ -56,3 +56,19 @@ sns.barplot(data=average_revenue_category, x='Category', y='Revenue (?)')
 plt.title('Average Revenue per Product Category (?)')
 plt.savefig('/mnt/data/average_revenue_per_category_naira.png')
 plt.close()
+
+# Recommendations
+recommendations = """
+1. Focus on Casual Products:
+   - Casual products generate the highest revenue. Enhance the variety and marketing of casual products, especially during the summer season, to further boost sales and revenue.
+
+2. Seasonal Promotions:
+   - Since summer has the highest sales, consider implementing seasonal promotions to capitalize on the peak sales period.
+
+3. Price Adjustments:
+   - Given the strong negative correlation between price and sales, consider strategic price reductions for higher-priced items to boost sales. For example, lowering the price of sneakers and jackets could potentially increase their sales volume.
+
+4. Product-Specific Strategies:
+   - Products with high revenue per unit, such as sneakers, should be highlighted in marketing campaigns to attract more customers willing to pay a premium price.
+"""
+print("\nRecommendations:\n", recommendations)
