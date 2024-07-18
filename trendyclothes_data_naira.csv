@@ -1,0 +1,6 @@
+Product,Price (₦),Sales (units),Revenue (₦),Category,Season,Revenue per Unit (₦)
+T-Shirt,6750,1000,6750000,Casual,Summer,6750.0
+Jeans,18000,500,9000000,Casual,Winter,18000.0
+Dress,13500,800,10800000,Formal,Spring,13500.0
+Jacket,22500,300,6750000,Formal,Winter,22500.0
+Sneakers,27000,400,10800000,Casual,Summer,27000.0
